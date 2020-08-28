@@ -1,0 +1,71 @@
+body {
+  background-color: black;
+}
+
+.material-icons {
+  /* espaco entre icones e texto */
+  position: absolute;
+  margin: 0px 10px;
+}
+
+.cabecalho {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+
+  font-family: "Alata", sans-serif;
+  color: white;
+
+  /* espaco do cabecalho para a pagina */
+  margin: 2% 4%;
+}
+
+.compras:hover {
+  color: rgb(167, 167, 167);
+  cursor: pointer;
+}
+
+.produtos {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-left: 4%;
+}
+
+.produto {
+  justify-content: space-around;
+
+  background-color: whitesmoke;
+  width: 250px;
+  height: 300px;
+  border-radius: 2%;
+  margin-top: 8%;
+  padding: 10%;
+}
+
+img {
+  margin-bottom: 20%;
+  margin-left: 17%;
+  height: 130px;
+  width: 130px;
+}
+
+.texto {
+  text-align: left;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+button {
+  margin-top: 5%;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  background-color: rgb(76, 184, 130);
+  height: 20%;
+  width: 250px;
+  font-size: 20px;
+  color: white;
+}
+
+button:hover {
+  background-color: rgb(63, 160, 112);
+  cursor: pointer;
+}
