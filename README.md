@@ -25,7 +25,11 @@
   </a>
 </p>
 
-![image](https://github.com/nerd0000/E-Commerce/blob/master/foto.jpg)
+<p align="center">
+  <a href="https://nerd0000.github.io/E-Commerce">Acessar aplicação</a>
+  <br><br>
+  <img src="https://github.com/nerd0000/E-Commerce/blob/master/foto.jpg"></img>
+</p>
 
 ## 🚀 Tecnologias utilizadas
 
