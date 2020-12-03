@@ -11,6 +11,7 @@
     <a href="https://nerd0000.github.io/E-Commerce">
         <img src="https://img.shields.io/badge/-Acessar%20aplica%C3%A7%C3%A3o-blue?style=plastic"></img>
     </a>
+    <br><br>
     <img src="https://github.com/nerd0000/E-Commerce/blob/master/foto.jpg"></img>
 </p>
 
