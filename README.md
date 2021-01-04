@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://nerd0000.github.io/E-Commerce">
-        <img src="https://img.shields.io/badge/-Acessar%20aplica%C3%A7%C3%A3o-blue"></img>
+        <img src="https://img.shields.io/badge/%F0%9F%8C%90-Acessar%20aplica%C3%A7%C3%A3o-blue"></img>
     </a>
     <a href="https://gitpod.io/#https://github.com/Nerd00F/E-Commerce">
         <img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod"></img>
