@@ -10,6 +10,5 @@
     <a href="https://gitpod.io/#https://github.com/Nerd00F/E-Commerce">
         <img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod"></img>
     </a>
-    <br><br>
     <img src="https://github.com/nerd0000/E-Commerce/blob/master/foto.jpg"></img>
 </p>
