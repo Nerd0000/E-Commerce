@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background: black;
 }
 
 .material-icons {
@@ -25,9 +25,8 @@ body {
 }
 
 .produtos {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  margin-left: 4%;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .produto {
@@ -38,7 +37,10 @@ body {
   height: 300px;
   border-radius: 2%;
   margin-top: 8%;
-  padding: 10%;
+  padding: 5%;
+
+    margin-left: 40px;
+
 }
 
 img {
